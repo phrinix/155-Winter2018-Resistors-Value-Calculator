@@ -32,4 +32,4 @@ Enter Value: 1
 
 Thank You!
 Your resistor has a value of: 110.000 +/- 1.00%
-ascendingascending
+ascending

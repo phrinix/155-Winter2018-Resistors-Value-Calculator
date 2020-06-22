@@ -7,7 +7,11 @@ Program ask question about number of bands and color of bands and give it's valu
 
 Welcome to the Seneca College Resistor Calculator...
 How many bands in your resistor? 3
+
+
 ***error: 3 is not valid, number must be between 4 and 6, try again***
+
+
 How many bands in your resistor? 4
 
 First Stripe

@@ -1,0 +1,54 @@
+﻿Build started 20-09-2018 14:23:21.
+     1>Project "D:\Seneca Study\SEM 1\PRG155\Visual Studio\LabProject\LabProject\LabProject.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt LabProject.c
+         LabProject.c
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(34): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(38): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(52): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(58): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(70): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(99): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(102): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(111): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(130): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(133): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(142): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(162): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(165): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\seneca study\sem 1\prg155\visual studio\labproject\labproject\labproject.c(174): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Seneca Study\SEM 1\PRG155\Visual Studio\LabProject\Debug\LabProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Seneca Study\SEM 1\PRG155\Visual Studio\LabProject\Debug\LabProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Seneca Study\SEM 1\PRG155\Visual Studio\LabProject\Debug\LabProject.lib" /MACHINE:X86 Debug\LabProject.obj
+         LabProject.vcxproj -> D:\Seneca Study\SEM 1\PRG155\Visual Studio\LabProject\Debug\LabProject.exe
+     1>Done Building Project "D:\Seneca Study\SEM 1\PRG155\Visual Studio\LabProject\LabProject\LabProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.49
